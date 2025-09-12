@@ -1211,7 +1211,7 @@ theme button
 .navbar .navbar-brand .logo-display {
   /* Alterado */
   position: absolute;
-  top: -50px;
+  top: -30px;
   /* Alterado */
   display: block;
 }
